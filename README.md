@@ -6,7 +6,6 @@ This repository contains a Jupyter Notebook implementing a machine learning pipe
 
 Prerequisites
 
-Libraries Used:
 Python 3
 Libraries:
 numpy, pandas (Data manipulation)
@@ -14,6 +13,8 @@ matplotlib, seaborn, plotly (Visualization)
 sklearn (Machine learning models and utilities)
 xgboost (Extreme Gradient Boosting)
 tensorflow/keras (Neural Networks)
+
+link data: https://www.kaggle.com/code/babluprasadyadav/ddosdata-using-3-ml-model/input?select=DDoSdata.csv
 
 Data Preprocessing:
 
